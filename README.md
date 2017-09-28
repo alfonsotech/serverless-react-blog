@@ -1,1 +1,1 @@
-#### Serverless Blog Site created using react-create-app, buttercms, and react-helmet, and deployed using netlify using [this tutorial:](https://thenewstack.io/build-serverless-seo-friendly-react-blog/)
+#### Serverless Blog Site created using react-create-app, buttercms, and react-helmet, and deployed using netlify using [this tutorial.](https://thenewstack.io/build-serverless-seo-friendly-react-blog/)
